@@ -4,14 +4,14 @@ A passionate Software Developer from India
 
 🌱 I’m currently learning Spring Boot , Hibernate
 
-💬 Ask me about FrontEnd Development, Java , Data Structures , Algorithms , HTML , CSS , JSwing , AWT
+💬 Ask me about FrontEnd Development, python , Data Structures , Algorithms , HTML , CSS , Rest Apis , AWT
 
-📫 How to reach me sahilsinha28102000@gmail.com
+📫 How to reach me nareshaitla1122@gmail.com
 
-⚡ Fun fact I think I can dance
+⚡ Fun fact: I think I can dance
 
 Connect with me:
-https://www.linkedin.com/in/sahil-sinha-a4228a210/ ____._.sahil._.____ sahilsinha07
+https://www.linkedin.com/in/naresh-aitla/
 
-Languages and Tools:
-arduino css3 firebase git heroku html5 illustrator java kotlin matlab mysql photoshop postgresql python spring
+
+
